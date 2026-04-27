@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "985485403928",
+    "project_id": "com-cargoind-app",
+    "storage_bucket": "com-cargoind-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985485403928:android:e6b1c2639f6cc48037606d",
+        "android_client_info": {
+          "package_name": "com.cargoind.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985485403928-4tui6q06sv5a8al15sv064v6pb8h4cm3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cargoind.app",
+            "certificate_hash": "c2cb18500994311ec9e10328c6d2f6a5e84928ee"
+          }
+        },
+        {
+          "client_id": "985485403928-m01s95rpjl3dnherlsteeq517em13fgr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApmTIJ7SEjOwGXcby_HQ90oy0sbUIJUms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985485403928-m01s95rpjl3dnherlsteeq517em13fgr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "985485403928-p8b0q769hocl9ori8ro73u12o4tpvb28.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cargoind.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
